@@ -289,6 +289,7 @@ if ($dibayar == null) {
                 beforeSend: function() {
                     $('#button_action').attr('disabled', 'disabled');
                     $('#button_action').val('Validate...');
+                    location.reload(true);
                 },
                 success: function(data) {
                     $('#button_action').attr('disabled', false);
