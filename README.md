@@ -1,5 +1,5 @@
 # spp_project
-Project untuk keperluan ukk
+Project untuk mengelola administrasi pembayaran spp
 
 Akun
 Admin : rizaldi
